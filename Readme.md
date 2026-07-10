@@ -127,7 +127,7 @@ git push origin feature-name
 
 ## 👨‍💻 Author
 
-Abhishek Singh Sikarwar
+Abhishek Singh Sikarwar || Web Developer
 
 ---
 
