@@ -93,7 +93,6 @@ This project demonstrates:
 - Shuffle and repeat modes
 - Backend integration
 - Music streaming API integration
-- Dark/Light theme toggle
 
 ---
 
