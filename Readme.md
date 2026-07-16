@@ -91,8 +91,6 @@ This project demonstrates:
 - Playlist creation and management
 - Recently played songs
 - Shuffle and repeat modes
-- Backend integration
-- Music streaming API integration
 
 ---
 
