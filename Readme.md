@@ -89,8 +89,6 @@ This project demonstrates:
 - User authentication
 - Search functionality
 - Playlist creation and management
-- Recently played songs
-- Shuffle and repeat modes
 
 ---
 
